@@ -10,6 +10,7 @@ This python package is an extension to OpenAI Gym for auxiliary tasks (multitask
 - [OpenAI Gym](https://gym.openai.com/)
 - [MuJoCo](http://mujoco.org/) (Optional)
 - [mujoco-py](https://github.com/openai/mujoco-py#install-mujoco) (Optional)
+- [roboschool](https://github.com/openai/roboschool) (Optional)
 
 ## Installation
 
